@@ -19,6 +19,7 @@ function Contact() {
       <h1>{<About1/>}</h1>
       <h1>{name==="kumar" ? "yes" : "no"}</h1>
       <h1 style={{color:'red',fontSize:50}}>this is inline css</h1>
+      <div className='first'></div>
 
     </Fragment>
   )
